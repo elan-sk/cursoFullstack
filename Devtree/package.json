@@ -1,0 +1,14 @@
+{
+  "name": "devtree",
+  "version": "1.0.0",
+  "description": "Primera Aplicacion con Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elan-sk",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
