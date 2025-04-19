@@ -20,7 +20,7 @@ export const createAccount = async (req : Request, res : Response) => {
   }
 
   const user = new User(req.body)
-  user.password = await hashPassword(password)8
+  user.password = await hashPassword(password)
   user.handle = handleSlug
 
   await user.save()
