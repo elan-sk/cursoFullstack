@@ -1,3 +1,1 @@
-teminamos con el video 38 donde, hicimos handle para los usuarios:
-
-En el video pendiente, es decir video 39: vamos a hacer validación de en la base de datos
+Terminamos le video de 46, donde creamos las carpetas de backend y frontend
